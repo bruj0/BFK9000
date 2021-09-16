@@ -1,0 +1,2914 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A3 16535 11693
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L MX:CherryMX_LED K1-1
+U 1 1 610D22C0
+P 1150 1550
+F 0 "K1-1" V 1104 1748 50  0000 L CNN
+F 1 "CherryMX_LED" V 1450 1300 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.00u_PCB_LED" H 1150 1550 50  0001 C CNN
+F 3 "" H 1150 1550 50  0001 C CNN
+	1    1150 1550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R1
+U 1 1 610D38EB
+P 1200 1900
+F 0 "R1" H 1130 1854 50  0000 R CNN
+F 1 "R" H 1130 1945 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 1130 1900 50  0001 C CNN
+F 3 "~" H 1200 1900 50  0001 C CNN
+	1    1200 1900
+	-1   0    0    1   
+$EndComp
+$Comp
+L MX:CherryMX_LED K1-2
+U 1 1 610F7C96
+P 1850 1550
+F 0 "K1-2" V 1804 1748 50  0000 L CNN
+F 1 "CherryMX_LED" V 2150 1300 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.00u_PCB_LED" H 1850 1550 50  0001 C CNN
+F 3 "" H 1850 1550 50  0001 C CNN
+	1    1850 1550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R3
+U 1 1 610F7C9C
+P 1900 1900
+F 0 "R3" H 1830 1854 50  0000 R CNN
+F 1 "R" H 1830 1945 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 1830 1900 50  0001 C CNN
+F 3 "~" H 1900 1900 50  0001 C CNN
+	1    1900 1900
+	-1   0    0    1   
+$EndComp
+$Comp
+L MX:CherryMX_LED K1-3
+U 1 1 610F84E4
+P 2500 1550
+F 0 "K1-3" V 2454 1748 50  0000 L CNN
+F 1 "CherryMX_LED" V 2800 1300 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.00u_PCB_LED" H 2500 1550 50  0001 C CNN
+F 3 "" H 2500 1550 50  0001 C CNN
+	1    2500 1550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R5
+U 1 1 610F84EA
+P 2550 1900
+F 0 "R5" H 2480 1854 50  0000 R CNN
+F 1 "R" H 2480 1945 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 2480 1900 50  0001 C CNN
+F 3 "~" H 2550 1900 50  0001 C CNN
+	1    2550 1900
+	-1   0    0    1   
+$EndComp
+$Comp
+L MX:CherryMX_LED K1-4
+U 1 1 610F8EBA
+P 3150 1550
+F 0 "K1-4" V 3104 1748 50  0000 L CNN
+F 1 "CherryMX_LED" V 3450 1300 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.50u_PCB_LED" H 3150 1550 50  0001 C CNN
+F 3 "" H 3150 1550 50  0001 C CNN
+	1    3150 1550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R7
+U 1 1 610F8EC0
+P 3200 1900
+F 0 "R7" H 3130 1854 50  0000 R CNN
+F 1 "R" H 3130 1945 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 3130 1900 50  0001 C CNN
+F 3 "~" H 3200 1900 50  0001 C CNN
+	1    3200 1900
+	-1   0    0    1   
+$EndComp
+$Comp
+L MX:CherryMX_LED K1-5
+U 1 1 610F9618
+P 3800 1550
+F 0 "K1-5" V 3754 1748 50  0000 L CNN
+F 1 "CherryMX_LED" V 4100 1300 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.00u_PCB_LED" H 3800 1550 50  0001 C CNN
+F 3 "" H 3800 1550 50  0001 C CNN
+	1    3800 1550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R9
+U 1 1 610F961E
+P 3850 1900
+F 0 "R9" H 3780 1854 50  0000 R CNN
+F 1 "R" H 3780 1945 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 3780 1900 50  0001 C CNN
+F 3 "~" H 3850 1900 50  0001 C CNN
+	1    3850 1900
+	-1   0    0    1   
+$EndComp
+$Comp
+L MX:CherryMX_LED K1-6
+U 1 1 610F9D1C
+P 4450 1550
+F 0 "K1-6" V 4404 1748 50  0000 L CNN
+F 1 "CherryMX_LED" V 4750 1300 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.00u_PCB_LED" H 4450 1550 50  0001 C CNN
+F 3 "" H 4450 1550 50  0001 C CNN
+	1    4450 1550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R11
+U 1 1 610F9D22
+P 4500 1900
+F 0 "R11" H 4430 1854 50  0000 R CNN
+F 1 "R" H 4430 1945 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 4430 1900 50  0001 C CNN
+F 3 "~" H 4500 1900 50  0001 C CNN
+	1    4500 1900
+	-1   0    0    1   
+$EndComp
+$Comp
+L MX:CherryMX_LED K1-7
+U 1 1 610FA5EE
+P 5100 1550
+F 0 "K1-7" V 5054 1748 50  0000 L CNN
+F 1 "CherryMX_LED" V 5400 1300 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.00u_PCB_LED" H 5100 1550 50  0001 C CNN
+F 3 "" H 5100 1550 50  0001 C CNN
+	1    5100 1550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R13
+U 1 1 610FA5F4
+P 5150 1900
+F 0 "R13" H 5080 1854 50  0000 R CNN
+F 1 "R" H 5080 1945 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 5080 1900 50  0001 C CNN
+F 3 "~" H 5150 1900 50  0001 C CNN
+	1    5150 1900
+	-1   0    0    1   
+$EndComp
+$Comp
+L MX:CherryMX_LED K1-8
+U 1 1 610FBFF0
+P 5750 1550
+F 0 "K1-8" V 5704 1748 50  0000 L CNN
+F 1 "CherryMX_LED" V 6050 1300 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.00u_PCB_LED" H 5750 1550 50  0001 C CNN
+F 3 "" H 5750 1550 50  0001 C CNN
+	1    5750 1550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R15
+U 1 1 610FBFF6
+P 5800 1900
+F 0 "R15" H 5730 1854 50  0000 R CNN
+F 1 "R" H 5730 1945 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 5730 1900 50  0001 C CNN
+F 3 "~" H 5800 1900 50  0001 C CNN
+	1    5800 1900
+	-1   0    0    1   
+$EndComp
+$Comp
+L MX:CherryMX_LED K2-1
+U 1 1 6110848C
+P 1250 3000
+F 0 "K2-1" V 1204 3198 50  0000 L CNN
+F 1 "CherryMX_LED" V 1550 2750 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.00u_PCB_LED" H 1250 3000 50  0001 C CNN
+F 3 "" H 1250 3000 50  0001 C CNN
+	1    1250 3000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R2
+U 1 1 61108492
+P 1300 3350
+F 0 "R2" H 1230 3304 50  0000 R CNN
+F 1 "R" H 1230 3395 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 1230 3350 50  0001 C CNN
+F 3 "~" H 1300 3350 50  0001 C CNN
+	1    1300 3350
+	-1   0    0    1   
+$EndComp
+$Comp
+L MX:CherryMX_LED K2-2
+U 1 1 61108498
+P 1950 3000
+F 0 "K2-2" V 1904 3198 50  0000 L CNN
+F 1 "CherryMX_LED" V 2250 2750 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.00u_PCB_LED" H 1950 3000 50  0001 C CNN
+F 3 "" H 1950 3000 50  0001 C CNN
+	1    1950 3000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R4
+U 1 1 6110849E
+P 2000 3350
+F 0 "R4" H 1930 3304 50  0000 R CNN
+F 1 "R" H 1930 3395 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 1930 3350 50  0001 C CNN
+F 3 "~" H 2000 3350 50  0001 C CNN
+	1    2000 3350
+	-1   0    0    1   
+$EndComp
+$Comp
+L MX:CherryMX_LED K2-3
+U 1 1 611084A4
+P 2600 3000
+F 0 "K2-3" V 2554 3198 50  0000 L CNN
+F 1 "CherryMX_LED" V 2900 2750 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.00u_PCB_LED" H 2600 3000 50  0001 C CNN
+F 3 "" H 2600 3000 50  0001 C CNN
+	1    2600 3000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R6
+U 1 1 611084AA
+P 2650 3350
+F 0 "R6" H 2580 3304 50  0000 R CNN
+F 1 "R" H 2580 3395 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 2580 3350 50  0001 C CNN
+F 3 "~" H 2650 3350 50  0001 C CNN
+	1    2650 3350
+	-1   0    0    1   
+$EndComp
+$Comp
+L MX:CherryMX_LED K2-4
+U 1 1 611084B0
+P 3250 3000
+F 0 "K2-4" V 3204 3198 50  0000 L CNN
+F 1 "CherryMX_LED" V 3550 2750 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.50u_PCB_LED" H 3250 3000 50  0001 C CNN
+F 3 "" H 3250 3000 50  0001 C CNN
+	1    3250 3000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R8
+U 1 1 611084B6
+P 3300 3350
+F 0 "R8" H 3230 3304 50  0000 R CNN
+F 1 "R" H 3230 3395 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 3230 3350 50  0001 C CNN
+F 3 "~" H 3300 3350 50  0001 C CNN
+	1    3300 3350
+	-1   0    0    1   
+$EndComp
+$Comp
+L MX:CherryMX_LED K2-5
+U 1 1 611084BC
+P 3900 3000
+F 0 "K2-5" V 3854 3198 50  0000 L CNN
+F 1 "CherryMX_LED" V 4200 2750 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.00u_PCB_LED" H 3900 3000 50  0001 C CNN
+F 3 "" H 3900 3000 50  0001 C CNN
+	1    3900 3000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R10
+U 1 1 611084C2
+P 3950 3350
+F 0 "R10" H 3880 3304 50  0000 R CNN
+F 1 "R" H 3880 3395 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 3880 3350 50  0001 C CNN
+F 3 "~" H 3950 3350 50  0001 C CNN
+	1    3950 3350
+	-1   0    0    1   
+$EndComp
+$Comp
+L MX:CherryMX_LED K2-6
+U 1 1 611084C8
+P 4550 3000
+F 0 "K2-6" V 4504 3198 50  0000 L CNN
+F 1 "CherryMX_LED" V 4850 2750 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.00u_PCB_LED" H 4550 3000 50  0001 C CNN
+F 3 "" H 4550 3000 50  0001 C CNN
+	1    4550 3000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R12
+U 1 1 611084CE
+P 4600 3350
+F 0 "R12" H 4530 3304 50  0000 R CNN
+F 1 "R" H 4530 3395 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 4530 3350 50  0001 C CNN
+F 3 "~" H 4600 3350 50  0001 C CNN
+	1    4600 3350
+	-1   0    0    1   
+$EndComp
+$Comp
+L MX:CherryMX_LED K2-7
+U 1 1 611084D4
+P 5200 3000
+F 0 "K2-7" V 5154 3198 50  0000 L CNN
+F 1 "CherryMX_LED" V 5500 2750 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.00u_PCB_LED" H 5200 3000 50  0001 C CNN
+F 3 "" H 5200 3000 50  0001 C CNN
+	1    5200 3000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R14
+U 1 1 611084DA
+P 5250 3350
+F 0 "R14" H 5180 3304 50  0000 R CNN
+F 1 "R" H 5180 3395 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 5180 3350 50  0001 C CNN
+F 3 "~" H 5250 3350 50  0001 C CNN
+	1    5250 3350
+	-1   0    0    1   
+$EndComp
+$Comp
+L MX:CherryMX_LED K2-8
+U 1 1 611084E0
+P 5850 3000
+F 0 "K2-8" V 5804 3198 50  0000 L CNN
+F 1 "CherryMX_LED" V 6150 2750 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.00u_PCB_LED" H 5850 3000 50  0001 C CNN
+F 3 "" H 5850 3000 50  0001 C CNN
+	1    5850 3000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R16
+U 1 1 611084E6
+P 5900 3350
+F 0 "R16" H 5830 3304 50  0000 R CNN
+F 1 "R" H 5830 3395 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 5830 3350 50  0001 C CNN
+F 3 "~" H 5900 3350 50  0001 C CNN
+	1    5900 3350
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	1200 2050 1900 2050
+Connection ~ 1900 2050
+Wire Wire Line
+	1900 2050 2550 2050
+Connection ~ 2550 2050
+Wire Wire Line
+	2550 2050 3200 2050
+Connection ~ 3200 2050
+Wire Wire Line
+	3200 2050 3850 2050
+Connection ~ 3850 2050
+Wire Wire Line
+	3850 2050 4500 2050
+Connection ~ 4500 2050
+Wire Wire Line
+	4500 2050 5150 2050
+Connection ~ 5150 2050
+Wire Wire Line
+	5150 2050 5800 2050
+Wire Wire Line
+	1200 1350 1200 1300
+Wire Wire Line
+	1200 1300 1900 1300
+Wire Wire Line
+	1900 1300 1900 1350
+Wire Wire Line
+	1900 1300 2550 1300
+Wire Wire Line
+	2550 1300 2550 1350
+Connection ~ 1900 1300
+Wire Wire Line
+	2550 1300 3200 1300
+Wire Wire Line
+	3200 1300 3200 1350
+Connection ~ 2550 1300
+Wire Wire Line
+	3200 1300 3850 1300
+Wire Wire Line
+	3850 1300 3850 1350
+Connection ~ 3200 1300
+Wire Wire Line
+	3850 1300 4500 1300
+Wire Wire Line
+	4500 1300 4500 1350
+Connection ~ 3850 1300
+Wire Wire Line
+	4500 1300 5150 1300
+Wire Wire Line
+	5150 1300 5150 1350
+Connection ~ 4500 1300
+Wire Wire Line
+	5150 1300 5800 1300
+Wire Wire Line
+	5800 1300 5800 1350
+Connection ~ 5150 1300
+Wire Wire Line
+	1300 3500 2000 3500
+Connection ~ 2000 3500
+Wire Wire Line
+	2000 3500 2650 3500
+Connection ~ 2650 3500
+Wire Wire Line
+	2650 3500 3300 3500
+Connection ~ 3300 3500
+Wire Wire Line
+	3300 3500 3950 3500
+Connection ~ 3950 3500
+Wire Wire Line
+	3950 3500 4600 3500
+Connection ~ 4600 3500
+Wire Wire Line
+	4600 3500 5250 3500
+Connection ~ 5250 3500
+Wire Wire Line
+	5250 3500 5900 3500
+Wire Wire Line
+	1300 2750 1300 2800
+Wire Wire Line
+	1300 2750 2000 2750
+Wire Wire Line
+	2000 2750 2000 2800
+Wire Wire Line
+	2000 2750 2650 2750
+Wire Wire Line
+	2650 2750 2650 2800
+Connection ~ 2000 2750
+Wire Wire Line
+	2650 2750 3300 2750
+Wire Wire Line
+	3300 2750 3300 2800
+Connection ~ 2650 2750
+Wire Wire Line
+	3300 2750 3950 2750
+Wire Wire Line
+	3950 2750 3950 2800
+Connection ~ 3300 2750
+Wire Wire Line
+	3950 2750 4600 2750
+Wire Wire Line
+	4600 2750 4600 2800
+Connection ~ 3950 2750
+Wire Wire Line
+	4600 2750 5250 2750
+Wire Wire Line
+	5250 2750 5250 2800
+Connection ~ 4600 2750
+Wire Wire Line
+	5250 2750 5900 2750
+Wire Wire Line
+	5900 2750 5900 2800
+Connection ~ 5250 2750
+Wire Wire Line
+	5050 1750 4900 1750
+Wire Wire Line
+	5700 1750 5550 1750
+$Comp
+L Diode:1N4148 D1
+U 1 1 61219190
+P 1100 950
+F 0 "D1" V 1054 1029 50  0000 L CNN
+F 1 "1N4148" V 1145 1029 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 1100 775 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1100 950 50  0001 C CNN
+	1    1100 950 
+	0    1    1    0   
+$EndComp
+$Comp
+L Diode:1N4148 D3
+U 1 1 61281406
+P 1800 950
+F 0 "D3" V 1754 1029 50  0000 L CNN
+F 1 "1N4148" V 1845 1029 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 1800 775 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1800 950 50  0001 C CNN
+	1    1800 950 
+	0    1    1    0   
+$EndComp
+$Comp
+L Diode:1N4148 D5
+U 1 1 61281F57
+P 2450 950
+F 0 "D5" V 2404 1029 50  0000 L CNN
+F 1 "1N4148" V 2495 1029 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 2450 775 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 2450 950 50  0001 C CNN
+	1    2450 950 
+	0    1    1    0   
+$EndComp
+$Comp
+L Diode:1N4148 D7
+U 1 1 612846BC
+P 3100 950
+F 0 "D7" V 3054 1029 50  0000 L CNN
+F 1 "1N4148" V 3145 1029 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3100 775 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3100 950 50  0001 C CNN
+	1    3100 950 
+	0    1    1    0   
+$EndComp
+$Comp
+L Diode:1N4148 D9
+U 1 1 61286F28
+P 3750 950
+F 0 "D9" V 3704 1029 50  0000 L CNN
+F 1 "1N4148" V 3795 1029 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3750 775 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3750 950 50  0001 C CNN
+	1    3750 950 
+	0    1    1    0   
+$EndComp
+$Comp
+L Diode:1N4148 D11
+U 1 1 61288B55
+P 4400 950
+F 0 "D11" V 4354 1029 50  0000 L CNN
+F 1 "1N4148" V 4445 1029 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4400 775 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4400 950 50  0001 C CNN
+	1    4400 950 
+	0    1    1    0   
+$EndComp
+$Comp
+L Diode:1N4148 D13
+U 1 1 612891EC
+P 5050 950
+F 0 "D13" V 5004 1029 50  0000 L CNN
+F 1 "1N4148" V 5095 1029 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 5050 775 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5050 950 50  0001 C CNN
+	1    5050 950 
+	0    1    1    0   
+$EndComp
+$Comp
+L Diode:1N4148 D15
+U 1 1 6128B185
+P 5700 950
+F 0 "D15" V 5654 1029 50  0000 L CNN
+F 1 "1N4148" V 5745 1029 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 5700 775 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5700 950 50  0001 C CNN
+	1    5700 950 
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	1100 1350 1100 1100
+Wire Wire Line
+	1100 800  1800 800 
+Wire Wire Line
+	1800 1350 1800 1100
+Connection ~ 1800 800 
+Wire Wire Line
+	2450 1350 2450 1100
+Wire Wire Line
+	1800 800  2450 800 
+Wire Wire Line
+	3100 1350 3100 1100
+Wire Wire Line
+	2450 800  3100 800 
+Connection ~ 2450 800 
+Wire Wire Line
+	3750 1350 3750 1100
+Wire Wire Line
+	3100 800  3750 800 
+Connection ~ 3100 800 
+Wire Wire Line
+	4400 1350 4400 1100
+Wire Wire Line
+	3750 800  4400 800 
+Connection ~ 3750 800 
+Wire Wire Line
+	4400 800  5050 800 
+Connection ~ 4400 800 
+Wire Wire Line
+	5050 1100 5050 1350
+Wire Wire Line
+	5050 800  5700 800 
+Connection ~ 5050 800 
+Wire Wire Line
+	5700 1350 5700 1100
+$Comp
+L Diode:1N4148 D2
+U 1 1 614F3242
+P 1200 2400
+F 0 "D2" V 1154 2479 50  0000 L CNN
+F 1 "1N4148" V 1245 2479 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 1200 2225 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1200 2400 50  0001 C CNN
+	1    1200 2400
+	0    1    1    0   
+$EndComp
+$Comp
+L Diode:1N4148 D4
+U 1 1 614F324C
+P 1900 2400
+F 0 "D4" V 1854 2479 50  0000 L CNN
+F 1 "1N4148" V 1945 2479 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 1900 2225 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1900 2400 50  0001 C CNN
+	1    1900 2400
+	0    1    1    0   
+$EndComp
+$Comp
+L Diode:1N4148 D6
+U 1 1 614F3256
+P 2550 2400
+F 0 "D6" V 2504 2479 50  0000 L CNN
+F 1 "1N4148" V 2595 2479 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 2550 2225 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 2550 2400 50  0001 C CNN
+	1    2550 2400
+	0    1    1    0   
+$EndComp
+$Comp
+L Diode:1N4148 D8
+U 1 1 614F3260
+P 3200 2400
+F 0 "D8" V 3154 2479 50  0000 L CNN
+F 1 "1N4148" V 3245 2479 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3200 2225 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3200 2400 50  0001 C CNN
+	1    3200 2400
+	0    1    1    0   
+$EndComp
+$Comp
+L Diode:1N4148 D10
+U 1 1 614F326A
+P 3850 2400
+F 0 "D10" V 3804 2479 50  0000 L CNN
+F 1 "1N4148" V 3895 2479 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3850 2225 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3850 2400 50  0001 C CNN
+	1    3850 2400
+	0    1    1    0   
+$EndComp
+$Comp
+L Diode:1N4148 D12
+U 1 1 614F3274
+P 4500 2400
+F 0 "D12" V 4454 2479 50  0000 L CNN
+F 1 "1N4148" V 4545 2479 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4500 2225 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4500 2400 50  0001 C CNN
+	1    4500 2400
+	0    1    1    0   
+$EndComp
+$Comp
+L Diode:1N4148 D14
+U 1 1 614F327E
+P 5150 2400
+F 0 "D14" V 5104 2479 50  0000 L CNN
+F 1 "1N4148" V 5195 2479 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 5150 2225 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5150 2400 50  0001 C CNN
+	1    5150 2400
+	0    1    1    0   
+$EndComp
+$Comp
+L Diode:1N4148 D16
+U 1 1 614F3288
+P 5800 2400
+F 0 "D16" V 5754 2479 50  0000 L CNN
+F 1 "1N4148" V 5845 2479 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 5800 2225 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5800 2400 50  0001 C CNN
+	1    5800 2400
+	0    1    1    0   
+$EndComp
+Text GLabel 7000 2250 2    50   Input ~ 0
+ROW2
+Wire Wire Line
+	1200 2250 1900 2250
+Connection ~ 1900 2250
+Wire Wire Line
+	1900 2250 2550 2250
+Wire Wire Line
+	2550 2250 3200 2250
+Connection ~ 2550 2250
+Wire Wire Line
+	3200 2250 3850 2250
+Connection ~ 3200 2250
+Wire Wire Line
+	3850 2250 4500 2250
+Connection ~ 3850 2250
+Wire Wire Line
+	4500 2250 5150 2250
+Connection ~ 4500 2250
+Wire Wire Line
+	5150 2250 5800 2250
+Connection ~ 5150 2250
+Wire Wire Line
+	1200 2800 1200 2550
+Wire Wire Line
+	1900 2550 1900 2800
+Wire Wire Line
+	2550 2550 2550 2800
+Wire Wire Line
+	3200 2550 3200 2800
+Wire Wire Line
+	3850 2550 3850 2800
+Wire Wire Line
+	4500 2550 4500 2800
+Wire Wire Line
+	5150 2550 5150 2800
+Wire Wire Line
+	5800 2550 5800 2800
+Connection ~ 5900 3500
+Wire Wire Line
+	1800 1750 1650 1750
+Wire Wire Line
+	1650 1750 1650 3200
+Wire Wire Line
+	1650 3200 1900 3200
+Wire Wire Line
+	2450 1750 2300 1750
+Wire Wire Line
+	2300 1750 2300 3200
+Wire Wire Line
+	2300 3200 2550 3200
+Wire Wire Line
+	3100 1750 2950 1750
+Wire Wire Line
+	2950 1750 2950 3200
+Wire Wire Line
+	2950 3200 3200 3200
+Wire Wire Line
+	3750 1750 3550 1750
+Wire Wire Line
+	3550 1750 3550 3200
+Wire Wire Line
+	3550 3200 3850 3200
+Wire Wire Line
+	4400 1750 4250 1750
+Wire Wire Line
+	4250 1750 4250 3200
+Wire Wire Line
+	4250 3200 4500 3200
+Wire Wire Line
+	4900 1750 4900 3200
+Wire Wire Line
+	4900 3200 5150 3200
+Wire Wire Line
+	5550 1750 5550 3200
+Wire Wire Line
+	5550 3200 5800 3200
+Wire Wire Line
+	1100 1750 900  1750
+Wire Wire Line
+	900  1750 900  3200
+Wire Wire Line
+	900  3200 1200 3200
+$Comp
+L MX:CherryMX_LED K3-1
+U 1 1 61673523
+P 1250 4450
+F 0 "K3-1" V 1204 4648 50  0000 L CNN
+F 1 "CherryMX_LED" V 1550 4200 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.00u_PCB_LED" H 1250 4450 50  0001 C CNN
+F 3 "" H 1250 4450 50  0001 C CNN
+	1    1250 4450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R17
+U 1 1 6167352D
+P 1300 4800
+F 0 "R17" H 1230 4754 50  0000 R CNN
+F 1 "R" H 1230 4845 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 1230 4800 50  0001 C CNN
+F 3 "~" H 1300 4800 50  0001 C CNN
+	1    1300 4800
+	-1   0    0    1   
+$EndComp
+$Comp
+L MX:CherryMX_LED K3-2
+U 1 1 61673537
+P 1950 4450
+F 0 "K3-2" V 1904 4648 50  0000 L CNN
+F 1 "CherryMX_LED" V 2250 4200 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.00u_PCB_LED" H 1950 4450 50  0001 C CNN
+F 3 "" H 1950 4450 50  0001 C CNN
+	1    1950 4450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R21
+U 1 1 61673541
+P 2000 4800
+F 0 "R21" H 1930 4754 50  0000 R CNN
+F 1 "R" H 1930 4845 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 1930 4800 50  0001 C CNN
+F 3 "~" H 2000 4800 50  0001 C CNN
+	1    2000 4800
+	-1   0    0    1   
+$EndComp
+$Comp
+L MX:CherryMX_LED K3-3
+U 1 1 6167354B
+P 2600 4450
+F 0 "K3-3" V 2554 4648 50  0000 L CNN
+F 1 "CherryMX_LED" V 2900 4200 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.00u_PCB_LED" H 2600 4450 50  0001 C CNN
+F 3 "" H 2600 4450 50  0001 C CNN
+	1    2600 4450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R25
+U 1 1 61673555
+P 2650 4800
+F 0 "R25" H 2580 4754 50  0000 R CNN
+F 1 "R" H 2580 4845 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 2580 4800 50  0001 C CNN
+F 3 "~" H 2650 4800 50  0001 C CNN
+	1    2650 4800
+	-1   0    0    1   
+$EndComp
+$Comp
+L MX:CherryMX_LED K3-4
+U 1 1 6167355F
+P 3250 4450
+F 0 "K3-4" V 3204 4648 50  0000 L CNN
+F 1 "CherryMX_LED" V 3550 4200 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.50u_PCB_LED" H 3250 4450 50  0001 C CNN
+F 3 "" H 3250 4450 50  0001 C CNN
+	1    3250 4450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R29
+U 1 1 61673569
+P 3300 4800
+F 0 "R29" H 3230 4754 50  0000 R CNN
+F 1 "R" H 3230 4845 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 3230 4800 50  0001 C CNN
+F 3 "~" H 3300 4800 50  0001 C CNN
+	1    3300 4800
+	-1   0    0    1   
+$EndComp
+$Comp
+L MX:CherryMX_LED K3-5
+U 1 1 61673573
+P 3900 4450
+F 0 "K3-5" V 3854 4648 50  0000 L CNN
+F 1 "CherryMX_LED" V 4200 4200 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.00u_PCB_LED" H 3900 4450 50  0001 C CNN
+F 3 "" H 3900 4450 50  0001 C CNN
+	1    3900 4450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R33
+U 1 1 6167357D
+P 3950 4800
+F 0 "R33" H 3880 4754 50  0000 R CNN
+F 1 "R" H 3880 4845 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 3880 4800 50  0001 C CNN
+F 3 "~" H 3950 4800 50  0001 C CNN
+	1    3950 4800
+	-1   0    0    1   
+$EndComp
+$Comp
+L MX:CherryMX_LED K3-6
+U 1 1 61673587
+P 4550 4450
+F 0 "K3-6" V 4504 4648 50  0000 L CNN
+F 1 "CherryMX_LED" V 4850 4200 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.00u_PCB_LED" H 4550 4450 50  0001 C CNN
+F 3 "" H 4550 4450 50  0001 C CNN
+	1    4550 4450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R37
+U 1 1 61673591
+P 4600 4800
+F 0 "R37" H 4530 4754 50  0000 R CNN
+F 1 "R" H 4530 4845 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 4530 4800 50  0001 C CNN
+F 3 "~" H 4600 4800 50  0001 C CNN
+	1    4600 4800
+	-1   0    0    1   
+$EndComp
+$Comp
+L MX:CherryMX_LED K3-7
+U 1 1 6167359B
+P 5200 4450
+F 0 "K3-7" V 5154 4648 50  0000 L CNN
+F 1 "CherryMX_LED" V 5500 4200 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.00u_PCB_LED" H 5200 4450 50  0001 C CNN
+F 3 "" H 5200 4450 50  0001 C CNN
+	1    5200 4450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R41
+U 1 1 616735A5
+P 5250 4800
+F 0 "R41" H 5180 4754 50  0000 R CNN
+F 1 "R" H 5180 4845 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 5180 4800 50  0001 C CNN
+F 3 "~" H 5250 4800 50  0001 C CNN
+	1    5250 4800
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	1300 4950 2000 4950
+Connection ~ 2000 4950
+Wire Wire Line
+	2000 4950 2650 4950
+Connection ~ 2650 4950
+Wire Wire Line
+	2650 4950 3300 4950
+Connection ~ 3300 4950
+Wire Wire Line
+	3300 4950 3950 4950
+Connection ~ 3950 4950
+Wire Wire Line
+	3950 4950 4600 4950
+Connection ~ 4600 4950
+Wire Wire Line
+	4600 4950 5250 4950
+Connection ~ 5250 4950
+Wire Wire Line
+	1300 4200 1300 4250
+Wire Wire Line
+	1300 4200 2000 4200
+Wire Wire Line
+	2000 4200 2000 4250
+Wire Wire Line
+	2000 4200 2650 4200
+Wire Wire Line
+	2650 4200 2650 4250
+Connection ~ 2000 4200
+Wire Wire Line
+	2650 4200 3300 4200
+Wire Wire Line
+	3300 4200 3300 4250
+Connection ~ 2650 4200
+Wire Wire Line
+	3300 4200 3950 4200
+Wire Wire Line
+	3950 4200 3950 4250
+Connection ~ 3300 4200
+Wire Wire Line
+	3950 4200 4600 4200
+Wire Wire Line
+	4600 4200 4600 4250
+Connection ~ 3950 4200
+Wire Wire Line
+	4600 4200 5250 4200
+Wire Wire Line
+	5250 4200 5250 4250
+Connection ~ 4600 4200
+$Comp
+L Diode:1N4148 D17
+U 1 1 616735E5
+P 1200 3850
+F 0 "D17" V 1154 3929 50  0000 L CNN
+F 1 "1N4148" V 1245 3929 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 1200 3675 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1200 3850 50  0001 C CNN
+	1    1200 3850
+	0    1    1    0   
+$EndComp
+$Comp
+L Diode:1N4148 D21
+U 1 1 616735EF
+P 1900 3850
+F 0 "D21" V 1854 3929 50  0000 L CNN
+F 1 "1N4148" V 1945 3929 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 1900 3675 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1900 3850 50  0001 C CNN
+	1    1900 3850
+	0    1    1    0   
+$EndComp
+$Comp
+L Diode:1N4148 D25
+U 1 1 616735F9
+P 2550 3850
+F 0 "D25" V 2504 3929 50  0000 L CNN
+F 1 "1N4148" V 2595 3929 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 2550 3675 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 2550 3850 50  0001 C CNN
+	1    2550 3850
+	0    1    1    0   
+$EndComp
+$Comp
+L Diode:1N4148 D29
+U 1 1 61673603
+P 3200 3850
+F 0 "D29" V 3154 3929 50  0000 L CNN
+F 1 "1N4148" V 3245 3929 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3200 3675 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3200 3850 50  0001 C CNN
+	1    3200 3850
+	0    1    1    0   
+$EndComp
+$Comp
+L Diode:1N4148 D33
+U 1 1 6167360D
+P 3850 3850
+F 0 "D33" V 3804 3929 50  0000 L CNN
+F 1 "1N4148" V 3895 3929 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3850 3675 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3850 3850 50  0001 C CNN
+	1    3850 3850
+	0    1    1    0   
+$EndComp
+$Comp
+L Diode:1N4148 D37
+U 1 1 61673617
+P 4500 3850
+F 0 "D37" V 4454 3929 50  0000 L CNN
+F 1 "1N4148" V 4545 3929 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4500 3675 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4500 3850 50  0001 C CNN
+	1    4500 3850
+	0    1    1    0   
+$EndComp
+$Comp
+L Diode:1N4148 D41
+U 1 1 61673621
+P 5150 3850
+F 0 "D41" V 5104 3929 50  0000 L CNN
+F 1 "1N4148" V 5195 3929 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 5150 3675 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5150 3850 50  0001 C CNN
+	1    5150 3850
+	0    1    1    0   
+$EndComp
+Text GLabel 7000 3700 2    50   Input ~ 0
+ROW3
+Wire Wire Line
+	1200 3700 1900 3700
+Connection ~ 1900 3700
+Wire Wire Line
+	1900 3700 2550 3700
+Wire Wire Line
+	2550 3700 3200 3700
+Connection ~ 2550 3700
+Wire Wire Line
+	3200 3700 3850 3700
+Connection ~ 3200 3700
+Wire Wire Line
+	3850 3700 4500 3700
+Connection ~ 3850 3700
+Wire Wire Line
+	4500 3700 5150 3700
+Connection ~ 4500 3700
+Connection ~ 5150 3700
+Wire Wire Line
+	1200 4250 1200 4000
+Wire Wire Line
+	1900 4000 1900 4250
+Wire Wire Line
+	2550 4000 2550 4250
+Wire Wire Line
+	3200 4000 3200 4250
+Wire Wire Line
+	3850 4000 3850 4250
+Wire Wire Line
+	4500 4000 4500 4250
+Wire Wire Line
+	5150 4000 5150 4250
+Wire Wire Line
+	1650 3200 1650 4650
+Wire Wire Line
+	1650 4650 1900 4650
+Wire Wire Line
+	2300 3200 2300 4650
+Wire Wire Line
+	2300 4650 2550 4650
+Wire Wire Line
+	2950 3200 2950 4650
+Wire Wire Line
+	2950 4650 3200 4650
+Wire Wire Line
+	3550 3200 3550 4650
+Wire Wire Line
+	3550 4650 3850 4650
+Wire Wire Line
+	4250 3200 4250 4650
+Wire Wire Line
+	4250 4650 4500 4650
+Wire Wire Line
+	4900 3200 4900 4650
+Wire Wire Line
+	4900 4650 5150 4650
+Wire Wire Line
+	900  3200 900  4650
+Wire Wire Line
+	900  4650 1200 4650
+Connection ~ 900  3200
+Connection ~ 1650 3200
+Connection ~ 2300 3200
+Connection ~ 2950 3200
+Connection ~ 3550 3200
+Connection ~ 4250 3200
+Connection ~ 4900 3200
+Connection ~ 5550 3200
+$Comp
+L MX:CherryMX_LED K4-1
+U 1 1 616CE152
+P 1250 5900
+F 0 "K4-1" V 1204 6098 50  0000 L CNN
+F 1 "CherryMX_LED" V 1550 5650 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.00u_PCB_LED" H 1250 5900 50  0001 C CNN
+F 3 "" H 1250 5900 50  0001 C CNN
+	1    1250 5900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R18
+U 1 1 616CE15C
+P 1300 6250
+F 0 "R18" H 1230 6204 50  0000 R CNN
+F 1 "R" H 1230 6295 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 1230 6250 50  0001 C CNN
+F 3 "~" H 1300 6250 50  0001 C CNN
+	1    1300 6250
+	-1   0    0    1   
+$EndComp
+$Comp
+L MX:CherryMX_LED K4-2
+U 1 1 616CE166
+P 1950 5900
+F 0 "K4-2" V 1904 6098 50  0000 L CNN
+F 1 "CherryMX_LED" V 2250 5650 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.00u_PCB_LED" H 1950 5900 50  0001 C CNN
+F 3 "" H 1950 5900 50  0001 C CNN
+	1    1950 5900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R22
+U 1 1 616CE170
+P 2000 6250
+F 0 "R22" H 1930 6204 50  0000 R CNN
+F 1 "R" H 1930 6295 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 1930 6250 50  0001 C CNN
+F 3 "~" H 2000 6250 50  0001 C CNN
+	1    2000 6250
+	-1   0    0    1   
+$EndComp
+$Comp
+L MX:CherryMX_LED K4-3
+U 1 1 616CE17A
+P 2600 5900
+F 0 "K4-3" V 2554 6098 50  0000 L CNN
+F 1 "CherryMX_LED" V 2900 5650 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.00u_PCB_LED" H 2600 5900 50  0001 C CNN
+F 3 "" H 2600 5900 50  0001 C CNN
+	1    2600 5900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R26
+U 1 1 616CE184
+P 2650 6250
+F 0 "R26" H 2580 6204 50  0000 R CNN
+F 1 "R" H 2580 6295 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 2580 6250 50  0001 C CNN
+F 3 "~" H 2650 6250 50  0001 C CNN
+	1    2650 6250
+	-1   0    0    1   
+$EndComp
+$Comp
+L MX:CherryMX_LED K4-4
+U 1 1 616CE18E
+P 3250 5900
+F 0 "K4-4" V 3204 6098 50  0000 L CNN
+F 1 "CherryMX_LED" V 3550 5650 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.50u_PCB_LED" H 3250 5900 50  0001 C CNN
+F 3 "" H 3250 5900 50  0001 C CNN
+	1    3250 5900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R30
+U 1 1 616CE198
+P 3300 6250
+F 0 "R30" H 3230 6204 50  0000 R CNN
+F 1 "R" H 3230 6295 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 3230 6250 50  0001 C CNN
+F 3 "~" H 3300 6250 50  0001 C CNN
+	1    3300 6250
+	-1   0    0    1   
+$EndComp
+$Comp
+L MX:CherryMX_LED K4-5
+U 1 1 616CE1A2
+P 3900 5900
+F 0 "K4-5" V 3854 6098 50  0000 L CNN
+F 1 "CherryMX_LED" V 4200 5650 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.00u_PCB_LED" H 3900 5900 50  0001 C CNN
+F 3 "" H 3900 5900 50  0001 C CNN
+	1    3900 5900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R34
+U 1 1 616CE1AC
+P 3950 6250
+F 0 "R34" H 3880 6204 50  0000 R CNN
+F 1 "R" H 3880 6295 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 3880 6250 50  0001 C CNN
+F 3 "~" H 3950 6250 50  0001 C CNN
+	1    3950 6250
+	-1   0    0    1   
+$EndComp
+$Comp
+L MX:CherryMX_LED K4-6
+U 1 1 616CE1B6
+P 4550 5900
+F 0 "K4-6" V 4504 6098 50  0000 L CNN
+F 1 "CherryMX_LED" V 4850 5650 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.00u_PCB_LED" H 4550 5900 50  0001 C CNN
+F 3 "" H 4550 5900 50  0001 C CNN
+	1    4550 5900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R38
+U 1 1 616CE1C0
+P 4600 6250
+F 0 "R38" H 4530 6204 50  0000 R CNN
+F 1 "R" H 4530 6295 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 4530 6250 50  0001 C CNN
+F 3 "~" H 4600 6250 50  0001 C CNN
+	1    4600 6250
+	-1   0    0    1   
+$EndComp
+$Comp
+L MX:CherryMX_LED K4-7
+U 1 1 616CE1CA
+P 5200 5900
+F 0 "K4-7" V 5154 6098 50  0000 L CNN
+F 1 "CherryMX_LED" V 5500 5650 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.00u_PCB_LED" H 5200 5900 50  0001 C CNN
+F 3 "" H 5200 5900 50  0001 C CNN
+	1    5200 5900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R42
+U 1 1 616CE1D4
+P 5250 6250
+F 0 "R42" H 5180 6204 50  0000 R CNN
+F 1 "R" H 5180 6295 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 5180 6250 50  0001 C CNN
+F 3 "~" H 5250 6250 50  0001 C CNN
+	1    5250 6250
+	-1   0    0    1   
+$EndComp
+$Comp
+L MX:CherryMX_LED K4-8
+U 1 1 616CE1DE
+P 5850 5900
+F 0 "K4-8" V 5804 6098 50  0000 L CNN
+F 1 "CherryMX_LED" V 6150 5650 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.00u_PCB_LED" H 5850 5900 50  0001 C CNN
+F 3 "" H 5850 5900 50  0001 C CNN
+	1    5850 5900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R46
+U 1 1 616CE1E8
+P 5900 6250
+F 0 "R46" H 5830 6204 50  0000 R CNN
+F 1 "R" H 5830 6295 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 5830 6250 50  0001 C CNN
+F 3 "~" H 5900 6250 50  0001 C CNN
+	1    5900 6250
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	1300 6400 2000 6400
+Connection ~ 2000 6400
+Wire Wire Line
+	2000 6400 2650 6400
+Connection ~ 2650 6400
+Wire Wire Line
+	2650 6400 3300 6400
+Connection ~ 3300 6400
+Wire Wire Line
+	3300 6400 3950 6400
+Connection ~ 3950 6400
+Wire Wire Line
+	3950 6400 4600 6400
+Connection ~ 4600 6400
+Wire Wire Line
+	4600 6400 5250 6400
+Connection ~ 5250 6400
+Wire Wire Line
+	5250 6400 5900 6400
+Wire Wire Line
+	1300 5650 1300 5700
+Wire Wire Line
+	1300 5650 2000 5650
+Wire Wire Line
+	2000 5650 2000 5700
+Wire Wire Line
+	2000 5650 2650 5650
+Wire Wire Line
+	2650 5650 2650 5700
+Connection ~ 2000 5650
+Wire Wire Line
+	2650 5650 3300 5650
+Wire Wire Line
+	3300 5650 3300 5700
+Connection ~ 2650 5650
+Wire Wire Line
+	3300 5650 3950 5650
+Wire Wire Line
+	3950 5650 3950 5700
+Connection ~ 3300 5650
+Wire Wire Line
+	3950 5650 4600 5650
+Wire Wire Line
+	4600 5650 4600 5700
+Connection ~ 3950 5650
+Wire Wire Line
+	4600 5650 5250 5650
+Wire Wire Line
+	5250 5650 5250 5700
+Connection ~ 4600 5650
+Wire Wire Line
+	5250 5650 5900 5650
+Wire Wire Line
+	5900 5650 5900 5700
+Connection ~ 5250 5650
+$Comp
+L Diode:1N4148 D18
+U 1 1 616CE214
+P 1200 5300
+F 0 "D18" V 1154 5379 50  0000 L CNN
+F 1 "1N4148" V 1245 5379 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 1200 5125 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1200 5300 50  0001 C CNN
+	1    1200 5300
+	0    1    1    0   
+$EndComp
+$Comp
+L Diode:1N4148 D22
+U 1 1 616CE21E
+P 1900 5300
+F 0 "D22" V 1854 5379 50  0000 L CNN
+F 1 "1N4148" V 1945 5379 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 1900 5125 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1900 5300 50  0001 C CNN
+	1    1900 5300
+	0    1    1    0   
+$EndComp
+$Comp
+L Diode:1N4148 D26
+U 1 1 616CE228
+P 2550 5300
+F 0 "D26" V 2504 5379 50  0000 L CNN
+F 1 "1N4148" V 2595 5379 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 2550 5125 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 2550 5300 50  0001 C CNN
+	1    2550 5300
+	0    1    1    0   
+$EndComp
+$Comp
+L Diode:1N4148 D30
+U 1 1 616CE232
+P 3200 5300
+F 0 "D30" V 3154 5379 50  0000 L CNN
+F 1 "1N4148" V 3245 5379 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3200 5125 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3200 5300 50  0001 C CNN
+	1    3200 5300
+	0    1    1    0   
+$EndComp
+$Comp
+L Diode:1N4148 D34
+U 1 1 616CE23C
+P 3850 5300
+F 0 "D34" V 3804 5379 50  0000 L CNN
+F 1 "1N4148" V 3895 5379 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3850 5125 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3850 5300 50  0001 C CNN
+	1    3850 5300
+	0    1    1    0   
+$EndComp
+$Comp
+L Diode:1N4148 D38
+U 1 1 616CE246
+P 4500 5300
+F 0 "D38" V 4454 5379 50  0000 L CNN
+F 1 "1N4148" V 4545 5379 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4500 5125 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4500 5300 50  0001 C CNN
+	1    4500 5300
+	0    1    1    0   
+$EndComp
+$Comp
+L Diode:1N4148 D42
+U 1 1 616CE250
+P 5150 5300
+F 0 "D42" V 5104 5379 50  0000 L CNN
+F 1 "1N4148" V 5195 5379 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 5150 5125 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5150 5300 50  0001 C CNN
+	1    5150 5300
+	0    1    1    0   
+$EndComp
+$Comp
+L Diode:1N4148 D46
+U 1 1 616CE25A
+P 5800 5300
+F 0 "D46" V 5754 5379 50  0000 L CNN
+F 1 "1N4148" V 5845 5379 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 5800 5125 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5800 5300 50  0001 C CNN
+	1    5800 5300
+	0    1    1    0   
+$EndComp
+Text GLabel 7000 5150 2    50   Input ~ 0
+ROW4
+Wire Wire Line
+	1200 5150 1900 5150
+Connection ~ 1900 5150
+Wire Wire Line
+	1900 5150 2550 5150
+Wire Wire Line
+	2550 5150 3200 5150
+Connection ~ 2550 5150
+Wire Wire Line
+	3200 5150 3850 5150
+Connection ~ 3200 5150
+Wire Wire Line
+	3850 5150 4500 5150
+Connection ~ 3850 5150
+Wire Wire Line
+	4500 5150 5150 5150
+Connection ~ 4500 5150
+Wire Wire Line
+	5150 5150 5800 5150
+Connection ~ 5150 5150
+Connection ~ 5800 5150
+Wire Wire Line
+	1200 5700 1200 5450
+Wire Wire Line
+	1900 5450 1900 5700
+Wire Wire Line
+	2550 5450 2550 5700
+Wire Wire Line
+	3200 5450 3200 5700
+Wire Wire Line
+	3850 5450 3850 5700
+Wire Wire Line
+	4500 5450 4500 5700
+Wire Wire Line
+	5150 5450 5150 5700
+Wire Wire Line
+	5800 5450 5800 5700
+Connection ~ 5900 5650
+Wire Wire Line
+	1650 4650 1650 6100
+Wire Wire Line
+	1650 6100 1900 6100
+Wire Wire Line
+	2300 4650 2300 6100
+Wire Wire Line
+	2300 6100 2550 6100
+Wire Wire Line
+	2950 4650 2950 6100
+Wire Wire Line
+	2950 6100 3200 6100
+Wire Wire Line
+	3550 4650 3550 6100
+Wire Wire Line
+	3550 6100 3850 6100
+Wire Wire Line
+	4250 4650 4250 6100
+Wire Wire Line
+	4250 6100 4500 6100
+Wire Wire Line
+	4900 4650 4900 6100
+Wire Wire Line
+	4900 6100 5150 6100
+Wire Wire Line
+	5550 6100 5800 6100
+Wire Wire Line
+	900  4650 900  6100
+Wire Wire Line
+	900  6100 1200 6100
+Connection ~ 900  4650
+Connection ~ 1650 4650
+Connection ~ 2300 4650
+Connection ~ 2950 4650
+Connection ~ 3550 4650
+Connection ~ 4250 4650
+Connection ~ 4900 4650
+$Comp
+L MX:CherryMX_LED K5-1
+U 1 1 617532AB
+P 1250 7350
+F 0 "K5-1" V 1204 7548 50  0000 L CNN
+F 1 "CherryMX_LED" V 1550 7100 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.00u_PCB_LED" H 1250 7350 50  0001 C CNN
+F 3 "" H 1250 7350 50  0001 C CNN
+	1    1250 7350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R19
+U 1 1 617532B5
+P 1300 7700
+F 0 "R19" H 1230 7654 50  0000 R CNN
+F 1 "R" H 1230 7745 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 1230 7700 50  0001 C CNN
+F 3 "~" H 1300 7700 50  0001 C CNN
+	1    1300 7700
+	-1   0    0    1   
+$EndComp
+$Comp
+L MX:CherryMX_LED K5-2
+U 1 1 617532BF
+P 1950 7350
+F 0 "K5-2" V 1904 7548 50  0000 L CNN
+F 1 "CherryMX_LED" V 2250 7100 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.00u_PCB_LED" H 1950 7350 50  0001 C CNN
+F 3 "" H 1950 7350 50  0001 C CNN
+	1    1950 7350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R23
+U 1 1 617532C9
+P 2000 7700
+F 0 "R23" H 1930 7654 50  0000 R CNN
+F 1 "R" H 1930 7745 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 1930 7700 50  0001 C CNN
+F 3 "~" H 2000 7700 50  0001 C CNN
+	1    2000 7700
+	-1   0    0    1   
+$EndComp
+$Comp
+L MX:CherryMX_LED K5-3
+U 1 1 617532D3
+P 2600 7350
+F 0 "K5-3" V 2554 7548 50  0000 L CNN
+F 1 "CherryMX_LED" V 2900 7100 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.00u_PCB_LED" H 2600 7350 50  0001 C CNN
+F 3 "" H 2600 7350 50  0001 C CNN
+	1    2600 7350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R27
+U 1 1 617532DD
+P 2650 7700
+F 0 "R27" H 2580 7654 50  0000 R CNN
+F 1 "R" H 2580 7745 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 2580 7700 50  0001 C CNN
+F 3 "~" H 2650 7700 50  0001 C CNN
+	1    2650 7700
+	-1   0    0    1   
+$EndComp
+$Comp
+L MX:CherryMX_LED K5-4
+U 1 1 617532E7
+P 3250 7350
+F 0 "K5-4" V 3204 7548 50  0000 L CNN
+F 1 "CherryMX_LED" V 3550 7100 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.50u_PCB_LED" H 3250 7350 50  0001 C CNN
+F 3 "" H 3250 7350 50  0001 C CNN
+	1    3250 7350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R31
+U 1 1 617532F1
+P 3300 7700
+F 0 "R31" H 3230 7654 50  0000 R CNN
+F 1 "R" H 3230 7745 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 3230 7700 50  0001 C CNN
+F 3 "~" H 3300 7700 50  0001 C CNN
+	1    3300 7700
+	-1   0    0    1   
+$EndComp
+$Comp
+L MX:CherryMX_LED K5-5
+U 1 1 617532FB
+P 3900 7350
+F 0 "K5-5" V 3854 7548 50  0000 L CNN
+F 1 "CherryMX_LED" V 4200 7100 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.00u_PCB_LED" H 3900 7350 50  0001 C CNN
+F 3 "" H 3900 7350 50  0001 C CNN
+	1    3900 7350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R35
+U 1 1 61753305
+P 3950 7700
+F 0 "R35" H 3880 7654 50  0000 R CNN
+F 1 "R" H 3880 7745 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 3880 7700 50  0001 C CNN
+F 3 "~" H 3950 7700 50  0001 C CNN
+	1    3950 7700
+	-1   0    0    1   
+$EndComp
+$Comp
+L MX:CherryMX_LED K5-6
+U 1 1 6175330F
+P 4550 7350
+F 0 "K5-6" V 4504 7548 50  0000 L CNN
+F 1 "CherryMX_LED" V 4850 7100 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.00u_PCB_LED" H 4550 7350 50  0001 C CNN
+F 3 "" H 4550 7350 50  0001 C CNN
+	1    4550 7350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R39
+U 1 1 61753319
+P 4600 7700
+F 0 "R39" H 4530 7654 50  0000 R CNN
+F 1 "R" H 4530 7745 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 4530 7700 50  0001 C CNN
+F 3 "~" H 4600 7700 50  0001 C CNN
+	1    4600 7700
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R43
+U 1 1 6175332D
+P 5250 7700
+F 0 "R43" H 5180 7654 50  0000 R CNN
+F 1 "R" H 5180 7745 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 5180 7700 50  0001 C CNN
+F 3 "~" H 5250 7700 50  0001 C CNN
+	1    5250 7700
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R47
+U 1 1 61753341
+P 5900 7700
+F 0 "R47" H 5830 7654 50  0000 R CNN
+F 1 "R" H 5830 7745 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 5830 7700 50  0001 C CNN
+F 3 "~" H 5900 7700 50  0001 C CNN
+	1    5900 7700
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	1300 7850 2000 7850
+Connection ~ 2000 7850
+Wire Wire Line
+	2000 7850 2650 7850
+Connection ~ 2650 7850
+Wire Wire Line
+	2650 7850 3300 7850
+Connection ~ 3300 7850
+Wire Wire Line
+	3300 7850 3950 7850
+Connection ~ 3950 7850
+Wire Wire Line
+	3950 7850 4600 7850
+Connection ~ 4600 7850
+Wire Wire Line
+	4600 7850 5250 7850
+Connection ~ 5250 7850
+Wire Wire Line
+	5250 7850 5900 7850
+Wire Wire Line
+	1300 7100 1300 7150
+Wire Wire Line
+	1300 7100 2000 7100
+Wire Wire Line
+	2000 7100 2000 7150
+Wire Wire Line
+	2000 7100 2650 7100
+Wire Wire Line
+	2650 7100 2650 7150
+Connection ~ 2000 7100
+Wire Wire Line
+	2650 7100 3300 7100
+Wire Wire Line
+	3300 7100 3300 7150
+Connection ~ 2650 7100
+Wire Wire Line
+	3300 7100 3950 7100
+Wire Wire Line
+	3950 7100 3950 7150
+Connection ~ 3300 7100
+Wire Wire Line
+	3950 7100 4600 7100
+Wire Wire Line
+	4600 7100 4600 7150
+Connection ~ 3950 7100
+Wire Wire Line
+	4600 7100 5250 7100
+Wire Wire Line
+	5250 7100 5250 7150
+Connection ~ 4600 7100
+Wire Wire Line
+	5250 7100 5900 7100
+Wire Wire Line
+	5900 7100 5900 7150
+Connection ~ 5250 7100
+$Comp
+L Diode:1N4148 D19
+U 1 1 6175336D
+P 1200 6750
+F 0 "D19" V 1154 6829 50  0000 L CNN
+F 1 "1N4148" V 1245 6829 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 1200 6575 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1200 6750 50  0001 C CNN
+	1    1200 6750
+	0    1    1    0   
+$EndComp
+$Comp
+L Diode:1N4148 D23
+U 1 1 61753377
+P 1900 6750
+F 0 "D23" V 1854 6829 50  0000 L CNN
+F 1 "1N4148" V 1945 6829 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 1900 6575 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1900 6750 50  0001 C CNN
+	1    1900 6750
+	0    1    1    0   
+$EndComp
+$Comp
+L Diode:1N4148 D27
+U 1 1 61753381
+P 2550 6750
+F 0 "D27" V 2504 6829 50  0000 L CNN
+F 1 "1N4148" V 2595 6829 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 2550 6575 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 2550 6750 50  0001 C CNN
+	1    2550 6750
+	0    1    1    0   
+$EndComp
+$Comp
+L Diode:1N4148 D31
+U 1 1 6175338B
+P 3200 6750
+F 0 "D31" V 3154 6829 50  0000 L CNN
+F 1 "1N4148" V 3245 6829 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3200 6575 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3200 6750 50  0001 C CNN
+	1    3200 6750
+	0    1    1    0   
+$EndComp
+$Comp
+L Diode:1N4148 D35
+U 1 1 61753395
+P 3850 6750
+F 0 "D35" V 3804 6829 50  0000 L CNN
+F 1 "1N4148" V 3895 6829 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3850 6575 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3850 6750 50  0001 C CNN
+	1    3850 6750
+	0    1    1    0   
+$EndComp
+$Comp
+L Diode:1N4148 D39
+U 1 1 6175339F
+P 4500 6750
+F 0 "D39" V 4454 6829 50  0000 L CNN
+F 1 "1N4148" V 4545 6829 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4500 6575 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4500 6750 50  0001 C CNN
+	1    4500 6750
+	0    1    1    0   
+$EndComp
+$Comp
+L Diode:1N4148 D43
+U 1 1 617533A9
+P 5150 6750
+F 0 "D43" V 5104 6829 50  0000 L CNN
+F 1 "1N4148" V 5195 6829 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 5150 6575 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5150 6750 50  0001 C CNN
+	1    5150 6750
+	0    1    1    0   
+$EndComp
+$Comp
+L Diode:1N4148 D47
+U 1 1 617533B3
+P 5800 6750
+F 0 "D47" V 5754 6829 50  0000 L CNN
+F 1 "1N4148" V 5845 6829 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 5800 6575 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5800 6750 50  0001 C CNN
+	1    5800 6750
+	0    1    1    0   
+$EndComp
+Text GLabel 7000 6600 2    50   Input ~ 0
+ROW5
+Wire Wire Line
+	1200 6600 1900 6600
+Connection ~ 1900 6600
+Wire Wire Line
+	1900 6600 2550 6600
+Wire Wire Line
+	2550 6600 3200 6600
+Connection ~ 2550 6600
+Wire Wire Line
+	3200 6600 3850 6600
+Connection ~ 3200 6600
+Wire Wire Line
+	3850 6600 4500 6600
+Connection ~ 3850 6600
+Wire Wire Line
+	4500 6600 5150 6600
+Connection ~ 4500 6600
+Wire Wire Line
+	5150 6600 5800 6600
+Connection ~ 5150 6600
+Connection ~ 5800 6600
+Wire Wire Line
+	1200 7150 1200 6900
+Wire Wire Line
+	1900 6900 1900 7150
+Wire Wire Line
+	2550 6900 2550 7150
+Wire Wire Line
+	3200 6900 3200 7150
+Wire Wire Line
+	3850 6900 3850 7150
+Wire Wire Line
+	4500 6900 4500 7150
+Wire Wire Line
+	5150 6900 5150 7150
+Wire Wire Line
+	5800 6900 5800 7150
+Connection ~ 5900 7100
+Connection ~ 5900 7850
+Wire Wire Line
+	1650 6100 1650 7550
+Wire Wire Line
+	1650 7550 1900 7550
+Wire Wire Line
+	2300 6100 2300 7550
+Wire Wire Line
+	2300 7550 2550 7550
+Wire Wire Line
+	2950 6100 2950 7550
+Wire Wire Line
+	2950 7550 3200 7550
+Wire Wire Line
+	3550 6100 3550 7550
+Wire Wire Line
+	3550 7550 3850 7550
+Wire Wire Line
+	4250 6100 4250 7550
+Wire Wire Line
+	4250 7550 4500 7550
+Wire Wire Line
+	4900 6100 4900 7550
+Wire Wire Line
+	4900 7550 5150 7550
+Wire Wire Line
+	5550 6100 5550 7550
+Wire Wire Line
+	5550 7550 5800 7550
+Wire Wire Line
+	900  6100 900  7550
+Wire Wire Line
+	900  7550 1200 7550
+Connection ~ 900  6100
+Connection ~ 1650 6100
+Connection ~ 2300 6100
+Connection ~ 2950 6100
+Connection ~ 3550 6100
+Connection ~ 4250 6100
+Connection ~ 4900 6100
+Connection ~ 5550 6100
+$Comp
+L Device:R R20
+U 1 1 617A133F
+P 1300 9150
+F 0 "R20" H 1230 9104 50  0000 R CNN
+F 1 "R" H 1230 9195 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 1230 9150 50  0001 C CNN
+F 3 "~" H 1300 9150 50  0001 C CNN
+	1    1300 9150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R24
+U 1 1 617A1353
+P 2000 9150
+F 0 "R24" H 1930 9104 50  0000 R CNN
+F 1 "R" H 1930 9195 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 1930 9150 50  0001 C CNN
+F 3 "~" H 2000 9150 50  0001 C CNN
+	1    2000 9150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R28
+U 1 1 617A1367
+P 2650 9150
+F 0 "R28" H 2580 9104 50  0000 R CNN
+F 1 "R" H 2580 9195 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 2580 9150 50  0001 C CNN
+F 3 "~" H 2650 9150 50  0001 C CNN
+	1    2650 9150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R32
+U 1 1 617A137B
+P 3300 9150
+F 0 "R32" H 3230 9104 50  0000 R CNN
+F 1 "R" H 3230 9195 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 3230 9150 50  0001 C CNN
+F 3 "~" H 3300 9150 50  0001 C CNN
+	1    3300 9150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R36
+U 1 1 617A138F
+P 3950 9150
+F 0 "R36" H 3880 9104 50  0000 R CNN
+F 1 "R" H 3880 9195 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 3880 9150 50  0001 C CNN
+F 3 "~" H 3950 9150 50  0001 C CNN
+	1    3950 9150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R40
+U 1 1 617A13A3
+P 4600 9150
+F 0 "R40" H 4530 9104 50  0000 R CNN
+F 1 "R" H 4530 9195 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 4530 9150 50  0001 C CNN
+F 3 "~" H 4600 9150 50  0001 C CNN
+	1    4600 9150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R44
+U 1 1 617A13B7
+P 5250 9150
+F 0 "R44" H 5180 9104 50  0000 R CNN
+F 1 "R" H 5180 9195 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 5180 9150 50  0001 C CNN
+F 3 "~" H 5250 9150 50  0001 C CNN
+	1    5250 9150
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	1300 9300 2000 9300
+Connection ~ 2000 9300
+Wire Wire Line
+	2000 9300 2650 9300
+Connection ~ 2650 9300
+Wire Wire Line
+	2650 9300 3300 9300
+Connection ~ 3300 9300
+Wire Wire Line
+	3300 9300 3950 9300
+Connection ~ 3950 9300
+Wire Wire Line
+	3950 9300 4600 9300
+Connection ~ 4600 9300
+Wire Wire Line
+	4600 9300 5250 9300
+Wire Wire Line
+	1300 8550 1300 8600
+Wire Wire Line
+	1300 8550 2000 8550
+Wire Wire Line
+	2000 8550 2000 8600
+Wire Wire Line
+	2000 8550 2650 8550
+Wire Wire Line
+	2650 8550 2650 8600
+Connection ~ 2000 8550
+Wire Wire Line
+	2650 8550 3300 8550
+Wire Wire Line
+	3300 8550 3300 8600
+Connection ~ 2650 8550
+Wire Wire Line
+	3300 8550 3950 8550
+Wire Wire Line
+	3950 8550 3950 8600
+Connection ~ 3300 8550
+Wire Wire Line
+	3950 8550 4600 8550
+Wire Wire Line
+	4600 8550 4600 8600
+Connection ~ 3950 8550
+Wire Wire Line
+	4600 8550 5250 8550
+Wire Wire Line
+	5250 8550 5250 8600
+Connection ~ 4600 8550
+$Comp
+L Diode:1N4148 D20
+U 1 1 617A13F7
+P 1200 8200
+F 0 "D20" V 1154 8279 50  0000 L CNN
+F 1 "1N4148" V 1245 8279 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 1200 8025 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1200 8200 50  0001 C CNN
+	1    1200 8200
+	0    1    1    0   
+$EndComp
+$Comp
+L Diode:1N4148 D24
+U 1 1 617A1401
+P 1900 8200
+F 0 "D24" V 1854 8279 50  0000 L CNN
+F 1 "1N4148" V 1945 8279 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 1900 8025 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1900 8200 50  0001 C CNN
+	1    1900 8200
+	0    1    1    0   
+$EndComp
+$Comp
+L Diode:1N4148 D28
+U 1 1 617A140B
+P 2550 8200
+F 0 "D28" V 2504 8279 50  0000 L CNN
+F 1 "1N4148" V 2595 8279 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 2550 8025 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 2550 8200 50  0001 C CNN
+	1    2550 8200
+	0    1    1    0   
+$EndComp
+$Comp
+L Diode:1N4148 D32
+U 1 1 617A1415
+P 3200 8200
+F 0 "D32" V 3154 8279 50  0000 L CNN
+F 1 "1N4148" V 3245 8279 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3200 8025 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3200 8200 50  0001 C CNN
+	1    3200 8200
+	0    1    1    0   
+$EndComp
+$Comp
+L Diode:1N4148 D36
+U 1 1 617A141F
+P 3850 8200
+F 0 "D36" V 3804 8279 50  0000 L CNN
+F 1 "1N4148" V 3895 8279 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3850 8025 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3850 8200 50  0001 C CNN
+	1    3850 8200
+	0    1    1    0   
+$EndComp
+$Comp
+L Diode:1N4148 D40
+U 1 1 617A1429
+P 4500 8200
+F 0 "D40" V 4454 8279 50  0000 L CNN
+F 1 "1N4148" V 4545 8279 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4500 8025 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4500 8200 50  0001 C CNN
+	1    4500 8200
+	0    1    1    0   
+$EndComp
+$Comp
+L Diode:1N4148 D44
+U 1 1 617A1433
+P 5150 8200
+F 0 "D44" V 5104 8279 50  0000 L CNN
+F 1 "1N4148" V 5195 8279 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 5150 8025 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5150 8200 50  0001 C CNN
+	1    5150 8200
+	0    1    1    0   
+$EndComp
+Text GLabel 7000 8050 2    50   Input ~ 0
+ROW6
+Wire Wire Line
+	1200 8050 1900 8050
+Connection ~ 1900 8050
+Wire Wire Line
+	1900 8050 2550 8050
+Wire Wire Line
+	2550 8050 3200 8050
+Connection ~ 2550 8050
+Wire Wire Line
+	3200 8050 3850 8050
+Connection ~ 3200 8050
+Wire Wire Line
+	3850 8050 4500 8050
+Connection ~ 3850 8050
+Wire Wire Line
+	4500 8050 5150 8050
+Connection ~ 4500 8050
+Connection ~ 5150 8050
+Wire Wire Line
+	1200 8600 1200 8350
+Wire Wire Line
+	1900 8350 1900 8600
+Wire Wire Line
+	2550 8350 2550 8600
+Wire Wire Line
+	3200 8350 3200 8600
+Wire Wire Line
+	3850 8350 3850 8600
+Wire Wire Line
+	4500 8350 4500 8600
+Wire Wire Line
+	5150 8350 5150 8600
+Wire Wire Line
+	1650 7550 1650 9000
+Wire Wire Line
+	1650 9000 1900 9000
+Wire Wire Line
+	2300 7550 2300 9000
+Wire Wire Line
+	2300 9000 2550 9000
+Wire Wire Line
+	2950 7550 2950 9000
+Wire Wire Line
+	2950 9000 3200 9000
+Wire Wire Line
+	3550 7550 3550 9000
+Wire Wire Line
+	3550 9000 3850 9000
+Wire Wire Line
+	4250 7550 4250 9000
+Wire Wire Line
+	4250 9000 4500 9000
+Wire Wire Line
+	4900 7550 4900 9000
+Wire Wire Line
+	4900 9000 5150 9000
+Wire Wire Line
+	900  7550 900  9000
+Wire Wire Line
+	900  9000 1200 9000
+Connection ~ 900  7550
+Connection ~ 1650 7550
+Connection ~ 2300 7550
+Connection ~ 2950 7550
+Connection ~ 3550 7550
+Connection ~ 4250 7550
+Connection ~ 4900 7550
+Wire Wire Line
+	5550 4650 5550 6100
+Wire Wire Line
+	5550 3200 5550 4650
+Connection ~ 5550 4650
+Wire Wire Line
+	5550 4650 5800 4650
+Wire Wire Line
+	5900 4200 5900 4250
+Connection ~ 5250 4200
+Wire Wire Line
+	5250 4200 5900 4200
+Wire Wire Line
+	5800 4000 5800 4250
+Wire Wire Line
+	5150 3700 5800 3700
+$Comp
+L Diode:1N4148 D45
+U 1 1 6167362B
+P 5800 3850
+F 0 "D45" V 5754 3929 50  0000 L CNN
+F 1 "1N4148" V 5845 3929 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 5800 3675 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5800 3850 50  0001 C CNN
+	1    5800 3850
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	5250 4950 5900 4950
+$Comp
+L Device:R R45
+U 1 1 616735B9
+P 5900 4800
+F 0 "R45" H 5830 4754 50  0000 R CNN
+F 1 "R" H 5830 4845 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 5830 4800 50  0001 C CNN
+F 3 "~" H 5900 4800 50  0001 C CNN
+	1    5900 4800
+	-1   0    0    1   
+$EndComp
+$Comp
+L MX:CherryMX_LED K3-8
+U 1 1 616735AF
+P 5850 4450
+F 0 "K3-8" V 5804 4648 50  0000 L CNN
+F 1 "CherryMX_LED" V 6150 4200 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.00u_PCB_LED" H 5850 4450 50  0001 C CNN
+F 3 "" H 5850 4450 50  0001 C CNN
+	1    5850 4450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX:CherryMX_LED K5-8
+U 1 1 61753337
+P 5850 7350
+F 0 "K5-8" V 5804 7548 50  0000 L CNN
+F 1 "CherryMX_LED" V 6150 7100 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.00u_PCB_LED" H 5850 7350 50  0001 C CNN
+F 3 "" H 5850 7350 50  0001 C CNN
+	1    5850 7350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX:CherryMX_LED K5-7
+U 1 1 61753323
+P 5200 7350
+F 0 "K5-7" V 5154 7548 50  0000 L CNN
+F 1 "CherryMX_LED" V 5500 7100 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.00u_PCB_LED" H 5200 7350 50  0001 C CNN
+F 3 "" H 5200 7350 50  0001 C CNN
+	1    5200 7350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX:CherryMX_LED K6-1
+U 1 1 617A1335
+P 1250 8800
+F 0 "K6-1" V 1204 8998 50  0000 L CNN
+F 1 "CherryMX_LED" V 1550 8550 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.00u_PCB_LED" H 1250 8800 50  0001 C CNN
+F 3 "" H 1250 8800 50  0001 C CNN
+	1    1250 8800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX:CherryMX_LED K6-2
+U 1 1 617A1349
+P 1950 8800
+F 0 "K6-2" V 1904 8998 50  0000 L CNN
+F 1 "CherryMX_LED" V 2250 8550 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.00u_PCB_LED" H 1950 8800 50  0001 C CNN
+F 3 "" H 1950 8800 50  0001 C CNN
+	1    1950 8800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX:CherryMX_LED K6-3
+U 1 1 617A135D
+P 2600 8800
+F 0 "K6-3" V 2554 8998 50  0000 L CNN
+F 1 "CherryMX_LED" V 2900 8550 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.00u_PCB_LED" H 2600 8800 50  0001 C CNN
+F 3 "" H 2600 8800 50  0001 C CNN
+	1    2600 8800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX:CherryMX_LED K6-4
+U 1 1 617A1371
+P 3250 8800
+F 0 "K6-4" V 3204 8998 50  0000 L CNN
+F 1 "CherryMX_LED" V 3550 8550 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.50u_PCB_LED" H 3250 8800 50  0001 C CNN
+F 3 "" H 3250 8800 50  0001 C CNN
+	1    3250 8800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX:CherryMX_LED K6-6
+U 1 1 617A1399
+P 4550 8800
+F 0 "K6-6" V 4504 8998 50  0000 L CNN
+F 1 "CherryMX_LED" V 4850 8550 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.50u_PCB_LED" H 4550 8800 50  0001 C CNN
+F 3 "" H 4550 8800 50  0001 C CNN
+	1    4550 8800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX:CherryMX_LED K6-5
+U 1 1 617A1385
+P 3900 8800
+F 0 "K6-5" V 3854 8998 50  0000 L CNN
+F 1 "CherryMX_LED" V 4200 8550 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.50u_PCB_LED" H 3900 8800 50  0001 C CNN
+F 3 "" H 3900 8800 50  0001 C CNN
+	1    3900 8800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX:CherryMX_LED K6-7
+U 1 1 617A13AD
+P 5200 8800
+F 0 "K6-7" V 5154 8998 50  0000 L CNN
+F 1 "CherryMX_LED" V 5500 8550 50  0000 L CNN
+F 2 "MXfoot:CherryMX_2.00u_PCB_LED" H 5200 8800 50  0001 C CNN
+F 3 "" H 5200 8800 50  0001 C CNN
+	1    5200 8800
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5550 7550 5550 9700
+Connection ~ 5550 7550
+Text GLabel 5550 9700 3    50   Input ~ 0
+COL8
+Text GLabel 4900 9700 3    50   Input ~ 0
+COL7
+Text GLabel 4250 9700 3    50   Input ~ 0
+COL6
+Text GLabel 3550 9700 3    50   Input ~ 0
+COL5
+Text GLabel 900  9700 3    50   Input ~ 0
+COL1
+Text GLabel 2300 9700 3    50   Input ~ 0
+COL3
+Text GLabel 2950 9700 3    50   Input ~ 0
+COL4
+Text GLabel 1650 9700 3    50   Input ~ 0
+COL2
+Connection ~ 4900 9000
+Connection ~ 4250 9000
+Connection ~ 3550 9000
+Connection ~ 2950 9000
+Connection ~ 2300 9000
+Connection ~ 1650 9000
+Connection ~ 900  9000
+Wire Wire Line
+	1200 2050 1000 2050
+Connection ~ 1200 2050
+Wire Wire Line
+	1300 4950 1050 4950
+Wire Wire Line
+	1050 4950 1050 6400
+Wire Wire Line
+	1050 6400 1300 6400
+Connection ~ 1300 4950
+Connection ~ 1300 6400
+Wire Wire Line
+	1300 7850 1050 7850
+Wire Wire Line
+	1050 7850 1050 9300
+Wire Wire Line
+	1050 9300 1300 9300
+Connection ~ 1300 7850
+Connection ~ 1300 9300
+Wire Wire Line
+	1000 3500 1300 3500
+Wire Wire Line
+	1000 2050 1000 3500
+Connection ~ 1300 3500
+Connection ~ 5900 4950
+Wire Wire Line
+	1200 1300 700  1300
+Wire Wire Line
+	700  1300 700  2750
+Wire Wire Line
+	700  2750 1300 2750
+Connection ~ 1200 1300
+Connection ~ 1300 2750
+Wire Wire Line
+	1300 4200 700  4200
+Wire Wire Line
+	700  4200 700  5650
+Wire Wire Line
+	700  5650 1300 5650
+Connection ~ 1300 4200
+Connection ~ 1300 5650
+Wire Wire Line
+	6900 5650 6900 7100
+Wire Wire Line
+	1300 7100 700  7100
+Wire Wire Line
+	700  7100 700  8550
+Wire Wire Line
+	700  8550 1300 8550
+Wire Wire Line
+	5900 5650 6550 5650
+Connection ~ 1300 7100
+Connection ~ 1300 8550
+Wire Wire Line
+	5900 7100 6550 7100
+Wire Wire Line
+	9200 800  9200 4750
+Wire Wire Line
+	9100 2250 9100 4850
+Wire Wire Line
+	9100 4850 9200 4850
+Wire Wire Line
+	9000 3700 9000 4950
+Wire Wire Line
+	9000 4950 9200 4950
+Wire Wire Line
+	5800 5150 6450 5150
+Wire Wire Line
+	8800 6600 8800 5150
+Wire Wire Line
+	5800 6600 6450 6600
+Wire Wire Line
+	9200 5250 8900 5250
+Wire Wire Line
+	8900 5250 8900 8050
+Wire Wire Line
+	5150 8050 8900 8050
+Wire Wire Line
+	5550 9750 9800 9750
+Wire Wire Line
+	9800 9750 9800 5450
+Wire Wire Line
+	4900 9850 9900 9850
+Wire Wire Line
+	9900 9850 9900 5350
+Wire Wire Line
+	4900 9000 4900 9850
+Wire Wire Line
+	4250 9950 10000 9950
+Wire Wire Line
+	10000 9950 10000 5250
+Wire Wire Line
+	4250 9000 4250 9950
+Wire Wire Line
+	3550 10050 10100 10050
+Wire Wire Line
+	10100 10050 10100 5150
+Wire Wire Line
+	3550 9000 3550 10050
+Wire Wire Line
+	10200 5050 10200 10150
+Wire Wire Line
+	10200 10150 2950 10150
+Wire Wire Line
+	2950 9000 2950 10150
+Wire Wire Line
+	2300 10250 10300 10250
+Wire Wire Line
+	10300 10250 10300 4950
+Wire Wire Line
+	2300 9000 2300 10250
+Wire Wire Line
+	10400 4850 10400 10350
+Wire Wire Line
+	10400 10350 1650 10350
+Wire Wire Line
+	1650 9000 1650 10350
+Wire Wire Line
+	900  10450 10500 10450
+Wire Wire Line
+	10500 10450 10500 4750
+Wire Wire Line
+	900  9000 900  10450
+Wire Wire Line
+	9750 4850 10400 4850
+Wire Wire Line
+	9750 5050 10200 5050
+$Comp
+L Connector_Generic_MountingPin:Conn_01x08_MountingPin J2
+U 1 1 633E6BF6
+P 9550 5150
+F 0 "J2" H 9638 4972 50  0000 L CNN
+F 1 "Conn_01x08_MountingPin" H 9638 5063 50  0000 L CNN
+F 2 "Connector_PinHeader_2.00mm:PinHeader_1x08_P2.00mm_Vertical" H 9550 5150 50  0001 C CNN
+F 3 "~" H 9550 5150 50  0001 C CNN
+	1    9550 5150
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	9800 5450 9750 5450
+Wire Wire Line
+	9900 5350 9750 5350
+Wire Wire Line
+	10000 5250 9750 5250
+Wire Wire Line
+	10100 5150 9750 5150
+Wire Wire Line
+	10300 4950 9750 4950
+Wire Wire Line
+	10500 4750 9750 4750
+$Comp
+L Connector_Generic_MountingPin:Conn_01x08_MountingPin J1
+U 1 1 6341B484
+P 9400 5050
+F 0 "J1" H 9488 4964 50  0000 L CNN
+F 1 "Conn_01x08_MountingPin" H 9488 4873 50  0000 L CNN
+F 2 "Connector_PinHeader_2.00mm:PinHeader_1x08_P2.00mm_Vertical" H 9400 5050 50  0001 C CNN
+F 3 "~" H 9400 5050 50  0001 C CNN
+	1    9400 5050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Transistor_BJT:BC817 Q1
+U 1 1 6351F606
+P 10950 3450
+F 0 "Q1" H 11141 3496 50  0000 L CNN
+F 1 "BC817" H 11141 3405 50  0000 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 11150 3375 50  0001 L CIN
+F 3 "http://www.fairchildsemi.com/ds/BC/BC817.pdf" H 10950 3450 50  0001 L CNN
+	1    10950 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R48
+U 1 1 63528B5C
+P 10400 3450
+F 0 "R48" V 10193 3450 50  0000 C CNN
+F 1 "470R" V 10284 3450 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 10330 3450 50  0001 C CNN
+F 3 "~" H 10400 3450 50  0001 C CNN
+	1    10400 3450
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R49
+U 1 1 6353097D
+P 10650 3850
+F 0 "R49" H 10580 3804 50  0000 R CNN
+F 1 "10k" H 10580 3895 50  0000 R CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 10580 3850 50  0001 C CNN
+F 3 "~" H 10650 3850 50  0001 C CNN
+	1    10650 3850
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	10750 3450 10650 3450
+Wire Wire Line
+	10650 3700 10650 3450
+Connection ~ 10650 3450
+Wire Wire Line
+	10650 3450 10550 3450
+$Comp
+L power:GND #PWR0101
+U 1 1 635AD5A8
+P 11050 4000
+F 0 "#PWR0101" H 11050 3750 50  0001 C CNN
+F 1 "GND" H 11055 3827 50  0000 C CNN
+F 2 "" H 11050 4000 50  0001 C CNN
+F 3 "" H 11050 4000 50  0001 C CNN
+	1    11050 4000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	11050 3650 11050 4000
+Wire Wire Line
+	10650 4000 11050 4000
+Connection ~ 11050 4000
+Wire Wire Line
+	11050 3250 11050 2050
+$Comp
+L Connector_Generic_MountingPin:Conn_01x04_MountingPin J3
+U 1 1 639A5607
+P 9700 3650
+F 0 "J3" H 9788 3472 50  0000 L CNN
+F 1 "Conn_01x04_MountingPin" H 9788 3563 50  0000 L CNN
+F 2 "Connector_PinHeader_2.00mm:PinHeader_1x04_P2.00mm_Vertical" H 9700 3650 50  0001 C CNN
+F 3 "~" H 9700 3650 50  0001 C CNN
+	1    9700 3650
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	11050 4000 11050 4300
+Wire Wire Line
+	11050 4300 9900 4300
+Wire Wire Line
+	9900 4300 9900 3750
+Wire Wire Line
+	10000 1300 10000 3650
+Wire Wire Line
+	10000 3650 9900 3650
+Wire Wire Line
+	10250 3450 10100 3450
+Wire Wire Line
+	10100 3450 10100 3550
+Wire Wire Line
+	10100 3550 9900 3550
+Text GLabel 10250 3450 3    50   Input ~ 0
+MCU
+Wire Wire Line
+	6950 2750 6950 4200
+Connection ~ 5900 4200
+Wire Wire Line
+	5900 4200 6550 4200
+Connection ~ 5800 3700
+Wire Wire Line
+	5800 3700 6450 3700
+Connection ~ 5900 2750
+Wire Wire Line
+	5900 2750 6550 2750
+Connection ~ 5800 2250
+Wire Wire Line
+	5800 2250 6450 2250
+Text GLabel 7000 2050 2    50   Input ~ 0
+LED1-GND
+Text GLabel 7000 800  2    50   Input ~ 0
+ROW1
+Text GLabel 7000 1300 2    50   Input ~ 0
+LED1-PWR
+$Comp
+L MX:CherryMX_LED K1-9
+U 1 1 643305F0
+P 6400 1550
+F 0 "K1-9" V 6354 1748 50  0000 L CNN
+F 1 "CherryMX_LED" V 6700 1300 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.00u_PCB_LED" H 6400 1550 50  0001 C CNN
+F 3 "" H 6400 1550 50  0001 C CNN
+	1    6400 1550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R50
+U 1 1 643305FA
+P 6450 1900
+F 0 "R50" H 6380 1854 50  0000 R CNN
+F 1 "R" H 6380 1945 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 6380 1900 50  0001 C CNN
+F 3 "~" H 6450 1900 50  0001 C CNN
+	1    6450 1900
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	5800 2050 6450 2050
+Wire Wire Line
+	5800 1300 6450 1300
+Wire Wire Line
+	6450 1300 6450 1350
+Wire Wire Line
+	6350 1750 6200 1750
+$Comp
+L Diode:1N4148 D48
+U 1 1 64330608
+P 6350 950
+F 0 "D48" V 6304 1029 50  0000 L CNN
+F 1 "1N4148" V 6395 1029 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 6350 775 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6350 950 50  0001 C CNN
+	1    6350 950 
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	5700 800  6350 800 
+Wire Wire Line
+	6350 1350 6350 1100
+Connection ~ 5700 800 
+Connection ~ 5800 1300
+Connection ~ 5800 2050
+Wire Wire Line
+	6350 800  9200 800 
+Connection ~ 6350 800 
+Wire Wire Line
+	10000 1300 6450 1300
+Connection ~ 6450 1300
+Wire Wire Line
+	11050 2050 6450 2050
+Connection ~ 6450 2050
+Wire Wire Line
+	5900 4950 6550 4950
+Wire Wire Line
+	5900 3500 6550 3500
+Wire Wire Line
+	6200 4650 6450 4650
+Wire Wire Line
+	6550 4200 6550 4250
+Wire Wire Line
+	6450 4000 6450 4250
+$Comp
+L Diode:1N4148 D50
+U 1 1 645594B8
+P 6450 3850
+F 0 "D50" V 6404 3929 50  0000 L CNN
+F 1 "1N4148" V 6495 3929 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 6450 3675 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6450 3850 50  0001 C CNN
+	1    6450 3850
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R52
+U 1 1 645594C3
+P 6550 4800
+F 0 "R52" H 6480 4754 50  0000 R CNN
+F 1 "R" H 6480 4845 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 6480 4800 50  0001 C CNN
+F 3 "~" H 6550 4800 50  0001 C CNN
+	1    6550 4800
+	-1   0    0    1   
+$EndComp
+$Comp
+L MX:CherryMX_LED K3-9
+U 1 1 645594CD
+P 6500 4450
+F 0 "K3-9" V 6454 4648 50  0000 L CNN
+F 1 "CherryMX_LED" V 6800 4200 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.00u_PCB_LED" H 6500 4450 50  0001 C CNN
+F 3 "" H 6500 4450 50  0001 C CNN
+	1    6500 4450
+	0    -1   -1   0   
+$EndComp
+Connection ~ 6550 4950
+Connection ~ 6550 4200
+Wire Wire Line
+	6550 4200 6950 4200
+Connection ~ 6450 3700
+Wire Wire Line
+	6550 4950 6850 4950
+Wire Wire Line
+	6200 1750 6200 3200
+Wire Wire Line
+	6450 3700 9000 3700
+$Comp
+L MX:CherryMX_LED K2-9
+U 1 1 646C7D26
+P 6500 3000
+F 0 "K2-9" V 6454 3198 50  0000 L CNN
+F 1 "CherryMX_LED" V 6800 2750 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.00u_PCB_LED" H 6500 3000 50  0001 C CNN
+F 3 "" H 6500 3000 50  0001 C CNN
+	1    6500 3000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R51
+U 1 1 646C7D30
+P 6550 3350
+F 0 "R51" H 6480 3304 50  0000 R CNN
+F 1 "R" H 6480 3395 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 6480 3350 50  0001 C CNN
+F 3 "~" H 6550 3350 50  0001 C CNN
+	1    6550 3350
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	6550 2750 6550 2800
+$Comp
+L Diode:1N4148 D49
+U 1 1 646C7D3D
+P 6450 2400
+F 0 "D49" V 6404 2479 50  0000 L CNN
+F 1 "1N4148" V 6495 2479 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 6450 2225 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6450 2400 50  0001 C CNN
+	1    6450 2400
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	6450 2550 6450 2800
+Connection ~ 6550 3500
+Wire Wire Line
+	6200 3200 6450 3200
+Connection ~ 6200 3200
+Wire Wire Line
+	6200 3200 6200 4650
+Connection ~ 6550 2750
+Wire Wire Line
+	6550 2750 6950 2750
+Connection ~ 6450 2250
+Wire Wire Line
+	6550 3500 6850 3500
+Wire Wire Line
+	6850 3500 6850 4950
+Wire Wire Line
+	6450 2250 9100 2250
+$Comp
+L MX:CherryMX_LED K4-9
+U 1 1 64B90037
+P 6500 5900
+F 0 "K4-9" V 6454 6098 50  0000 L CNN
+F 1 "CherryMX_LED" V 6800 5650 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.00u_PCB_LED" H 6500 5900 50  0001 C CNN
+F 3 "" H 6500 5900 50  0001 C CNN
+	1    6500 5900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R53
+U 1 1 64B90041
+P 6550 6250
+F 0 "R53" H 6480 6204 50  0000 R CNN
+F 1 "R" H 6480 6295 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 6480 6250 50  0001 C CNN
+F 3 "~" H 6550 6250 50  0001 C CNN
+	1    6550 6250
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	6550 5650 6550 5700
+$Comp
+L Diode:1N4148 D51
+U 1 1 64B9004E
+P 6450 5300
+F 0 "D51" V 6404 5379 50  0000 L CNN
+F 1 "1N4148" V 6495 5379 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 6450 5125 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6450 5300 50  0001 C CNN
+	1    6450 5300
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	6450 5450 6450 5700
+Connection ~ 6550 5650
+Connection ~ 6550 6400
+Wire Wire Line
+	6200 6100 6450 6100
+Wire Wire Line
+	6200 6100 6200 7550
+Connection ~ 6200 6100
+Wire Wire Line
+	6200 4650 6200 6100
+Wire Wire Line
+	6550 6400 6950 6400
+Wire Wire Line
+	6550 5650 6900 5650
+Wire Wire Line
+	6950 6400 6950 7850
+Connection ~ 6200 4650
+Connection ~ 5900 6400
+Wire Wire Line
+	5900 6400 6550 6400
+Wire Wire Line
+	5900 7850 6550 7850
+$Comp
+L Device:R R54
+U 1 1 64D3A471
+P 6550 7700
+F 0 "R54" H 6480 7654 50  0000 R CNN
+F 1 "R" H 6480 7745 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal" V 6480 7700 50  0001 C CNN
+F 3 "~" H 6550 7700 50  0001 C CNN
+	1    6550 7700
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	6550 7100 6550 7150
+$Comp
+L Diode:1N4148 D52
+U 1 1 64D3A47E
+P 6450 6750
+F 0 "D52" V 6404 6829 50  0000 L CNN
+F 1 "1N4148" V 6495 6829 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 6450 6575 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6450 6750 50  0001 C CNN
+	1    6450 6750
+	0    1    1    0   
+$EndComp
+Connection ~ 6450 6600
+Wire Wire Line
+	6450 6900 6450 7150
+Connection ~ 6550 7100
+Connection ~ 6550 7850
+Wire Wire Line
+	6200 7550 6450 7550
+$Comp
+L MX:CherryMX_LED K5-9
+U 1 1 64D3A48F
+P 6500 7350
+F 0 "K5-9" V 6454 7548 50  0000 L CNN
+F 1 "CherryMX_LED" V 6800 7100 50  0000 L CNN
+F 2 "MXfoot:CherryMX_1.00u_PCB_LED" H 6500 7350 50  0001 C CNN
+F 3 "" H 6500 7350 50  0001 C CNN
+	1    6500 7350
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6550 7100 6900 7100
+Wire Wire Line
+	6550 7850 6950 7850
+Wire Wire Line
+	6450 6600 8800 6600
+Wire Wire Line
+	8800 5150 9200 5150
+Wire Wire Line
+	6450 5150 8650 5150
+Wire Wire Line
+	8650 5150 8650 5050
+Wire Wire Line
+	8650 5050 9200 5050
+Connection ~ 6450 5150
+Wire Wire Line
+	6200 7550 6200 9500
+Wire Wire Line
+	6200 9500 9700 9500
+Wire Wire Line
+	9700 9500 9700 5750
+Wire Wire Line
+	9700 5750 9150 5750
+Wire Wire Line
+	9150 5750 9150 5350
+Wire Wire Line
+	9150 5350 9200 5350
+Connection ~ 6200 7550
+Text GLabel 6200 9500 3    50   Input ~ 0
+COL9
+$EndSCHEMATC

@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name MX)(type Legacy)(uri /home/bruj0/Projects/kicad-libraries/symbols/CherryMX.lib)(options "")(descr ""))
+  (lib (name ArduinoSocket)(type Legacy)(uri /home/bruj0/Projects/kicad-libraries/symbols/arduino.lib)(options "")(descr ""))
+  (lib (name Teensy)(type Legacy)(uri /home/bruj0/Projects/kicad-libraries/symbols/teensy.lib)(options "")(descr ""))
+)
